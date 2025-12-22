@@ -1,6 +1,6 @@
 Mamatov Ozodbek
 Mamatov Jorabek
-Turdumatov Baxrom
+Turdimatov Baxrom
 Tursunboyev Nozimjon
 Toxtasinov Fayozidin
 Mamasoliyev Elbek
@@ -10,7 +10,7 @@ Xaytiboyev Alisher
 Soliyev Jahongir 
 Fozilova Muhlisa 
 Adilova Zaxro
-Maxmudova Oybarchim 
+Maxmudova Oybarchin
 Yoldasheva Arzigul
 Adilova Gulhayo 
 Odilova Mushtariy
@@ -22,4 +22,4 @@ Akilova Jumagul
 Toshtemirova Omina
 Akimov Diyor
 Mamasoliyeva Mohira
-Shaxobiddinova Zulfiya
+Shahobiddinova Zulfiya
